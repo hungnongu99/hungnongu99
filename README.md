@@ -1,64 +1,91 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨, Hưng 𝐜𝐮𝐭𝐞 🍑 <img src="" width="35"></h1> 
+### Hello everyone, thank you for visiting my Github!!! 👋
+
+## I'm [J-JRT!](https://www.facebook.com/NHD.JRT.262) 👋
+
+<h1 align="center">
+    <img src="./img.svg" alt="Cant Load Image"/>
+</h1>
+
+<a href="#" target="_blank">
+  <img src="J-JRT.svg" width="1200" alt="Click to see the source" />
+</a>
+</br>
+</br>
+<a href="https://twitter.com/JrtOffcial">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<a href="https://github.com/J-JRT">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/hd.jrt.2k3">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/NHD.JRT.262">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCNK_WugSVHOSAIPKr2epEOQ">
+  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/>
+
+<p align="left">
+  <a href="https://www.facebook.com/NHD.JRT.262" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="load" height="30" width="40" /></a> 
+  <a href="https://instagram.com/hd.jrt.2k3" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="load" height="30" width="40" /></a> 
+ <a href="https://twitter.com/JrtOffcial" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Arsyad Al Zikri" height="30" width="40" /></a> 
+</p>
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://c.tenor.com/KhGC_UueKfAAAAAd/kamadonezuko-nezuko.gif" />
-</p> 
-<h1>HƯỚNG DẪN CÁCH CÀI ĐẶT BOT MESSENGER TRÊN CÁC NỀN TẢNG</h1>
+  <a href="https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6?si=f797219e136f4c44&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 
->  **TRƯỚC KHI CHẠY BOT CÁC BẠN PHẢI CHẤP NHẬN VIỆC ACC FACEBOOK BỊ QUÉT VÀ DIE, MỌI KHIẾU NẠI VỀ ACC FACEBOOK BÊN MÌNH KHÔNG CHỊU TRÁCH NHIỆM**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=J-JRT&column=8&theme=gruvbox&no-frame=true"/></a> 
+</p>
+<br>
 
-<h1>Đối với Replit - Dùng trên ĐT hoặc PC</h1> 
+# 📰 Talking about Information
 
-**Công cụ cần chuẩn cài đặt**
+<img align="right" width=200px alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
 
-- 🍁 **Một tài khoản trên [Replit](https://replit.com/)**
+-   ⚜️ My name is Nguyễn Quốc Hưng.
+-   ❤️‍🔥 18/06/2008
+-   💬 My nickname is hungnongu99
+-   💬 My rela is 
+-   💓 Relationship: Codon
+-   🍁 Profile: [Facebook](https://www.facebook.com/hungnongu99)
+-   🍀 Describe yourself: I love to travel with my lover and travel to explore. Although I am a quiet person, but anyone who comes into contact with me, I am willing to open my heart. And especially I love this girl very much with all my heart and what I give her will be true and nothing more than that, friendship will rank 2nd and my lover will be 1st.
 
-**Thứ tự các thao tác trên [Replit](https://replit.com/)**
+<hr>
 
-- 🍁 **+ New repl**
-- 🍁 Qua tab **Import from github**
-- 🍁 Nhập link **github** vào **from** và **click** vào nút **Import from github**
-- 🍁 Đợi repl **Cloning**
-- 🍁 Chọn **select language** là **Bash** và **configure the run button** là **npm start** xong rồi ấn **done**
-- 🍁 Đợi tầm 10s nếu không tự **refesh trang thì refesh thủ công bằng phím F5 hoặc nút refesh trên thanh địa chỉ**
+# 📝 Github Stats
 
-**Cách cài đặt - gõ từng lệnh theo thứ tự dưới đây và đợi cài đặt**
+<img src="https://github-readme-stats.vercel.app/api?username=J-JRT&include_all_commits=true&count_private=true&show_icons=true&custom_title=J-JRT&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=J-JRT&theme=neon-palenight" alt = "Github Streak" >
 
-- 🍁 Chuyển qua tab **console** và gõ các lệnh theo thứ tự sau:
-- 🍁 **npm install** - đợi khoảng 3-5p tùy theo tốc độ mạng
-- 🍁 **npm audit fix**
-- 🍁 **Ấn nút run trên màn hình** - đợi khoảng 3-5p tùy theo tốc độ mạng
-- 🍁 **Lưu Ý: Khi cài đặt xong phải tắt đi và khởi động lại để tránh gặp lỗi không mong muốn.**
+# 📖 Top Langs
 
-**Cách cài đặt treo 24/24 trên uptimerobot**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-JRT&text_color=daf7dc&bg_color=151515)
 
-- 🍁 Vào chỉnh sửa file **mirai.js**
-- 🍁 Thêm đoạn code sau vào dòng 1 của file **mirai.js**
-
-```diff
-const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN BOT");});app.listen(process.env. PORT);    
-```
-
-- 🍁 **npm install express**
-- 🍁 **npm audit fix**
-- 🍁 **Ấn nút run trên màn hình** - đợi khoảng 3-5p tùy theo tốc độ mạng
-- 🍁 **Copy link** ở trang replit. Link có định dạng **https://miraiv2.nameuser.repl.co**
-- 🍁 **Tạo tài khoản trên trang [UptimeRobot](https://uptimerobot.com/)**
-
-**Thứ tự các thao tác trên [UptimeRobot](https://uptimerobot.com/)**
-
-
-- 🍁 **+  Add New Monitor**
-- 🍁 **Monitor Type** chọn **HTTP(s)**
-- 🍁 **Friendly Name** đặt tùy ý
-- 🍁 **URL (or IP)**: Dán link vừa copy bên **[Replit](https://replit.com/)** 
-- 🍁 Ấn **tick** vào ô  **Select "Alert Contacts To Notify** (nhận thông báo từ email)
-- 🍁 Ấn **Create Monitor** để hoàn thành quá trình tạo **uptime**
-# 🤝🏻 Connect With hungnongu99
-<p align="center"> 
-&nbsp; <a href="https://www.instagram.com/tuan.dzz_1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
-&nbsp; <a href="https://www.tiktok.com/@hunglumxu" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/jcWPUix.png" width="100" /></a>    
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Hello](hello.svg)
+# 🤝🏻 Connect with Me
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/hd.jrt.2k3" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
+&nbsp; <a href="https://www.tiktok.com/@hunglumxu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/search" width="100" /></a>    
 &nbsp; <a href="https://github.com/hungnongu99" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
 &nbsp; <a href="https://www.facebook.com/hungnongu99" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
 &nbsp; <a href="mailto:tanantatv022022019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
+<br>
+<a href="#" target="_blank">
+  <img src="profile-night-view.svg" width="1200" alt="Click to see the source" />
+</a>  
+</a>
