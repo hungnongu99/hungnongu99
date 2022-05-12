@@ -1,6 +1,6 @@
 ### Hello everyone, thank you for visiting my Github!!! 👋
 
-## I'm [J-JRT!](https://www.facebook.com/NHD.JRT.262) 👋
+## I'm [NQH!](https://www.facebook.com/hungnongu99) 👋
 
 <h1 align="center">
     <img src="./img.svg" alt="Cant Load Image"/>
@@ -14,13 +14,13 @@
 <a href="https://twitter.com/JrtOffcial">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://github.com/J-JRT">
+<a href="https://github.com/hungnongu99">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/hd.jrt.2k3">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/NHD.JRT.262">
+<a href="https://www.facebook.com/hungnongu99">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCNK_WugSVHOSAIPKr2epEOQ">
@@ -31,7 +31,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://www.facebook.com/NHD.JRT.262" target="blank"><img align="center"
+  <a href="https://www.facebook.com/hungnongu99" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="load" height="30" width="40" /></a> 
   <a href="https://instagram.com/hd.jrt.2k3" target="blank"><img align="center"
@@ -59,7 +59,7 @@
 -   ❤️‍🔥 18/06/2008
 -   💬 My nickname is hungnongu99
 -   💬 My rela is 
--   💓 Relationship: Codon
+-   💓 Relationship: codon
 -   🍁 Profile: [Facebook](https://www.facebook.com/hungnongu99)
 -   🍀 Describe yourself: I love to travel with my lover and travel to explore. Although I am a quiet person, but anyone who comes into contact with me, I am willing to open my heart. And especially I love this girl very much with all my heart and what I give her will be true and nothing more than that, friendship will rank 2nd and my lover will be 1st.
 
