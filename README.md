@@ -3,7 +3,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+<img src="https://files.catbox.moe/hpwyxg.jpg" width="300px">
 </div>
 <br>
 
